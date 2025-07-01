@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: liveness-exec
+  namespace: ckad-ns3
+spec:
+  containers:
+  - name: nginx
+    image: nginx
+    ports:
+    - containerPort: 80
+    readinessProbe:
+      exec:
+        command:
+        - curl
+        - "-k"
+        - https://192.168.49.2:8443/healthz
+      initialDelaySeconds: 5
+      periodSeconds: 5
