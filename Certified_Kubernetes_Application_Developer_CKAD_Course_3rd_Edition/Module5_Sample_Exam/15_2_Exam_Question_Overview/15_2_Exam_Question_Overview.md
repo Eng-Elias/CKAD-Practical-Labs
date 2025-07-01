@@ -81,7 +81,7 @@ If you are almost ready for the exam, try to do the exam in two hours. If this i
 ### 11. Resource Quotas
 
 *   Create a namespace with the name `limited` in which five pods can be started, and a total amount of 1000 millicores and 2 gigabytes of RAM is available.
-*   Run a deployment with the name `restrict-ginex` in this namespace with three pods, where every pod initially requests 64 megabytes of RAM with an upper limit of 256 megabytes of RAM.
+*   Run a deployment with the name `restrictginex` in this namespace with three pods, where every pod initially requests 64 megabytes of RAM with an upper limit of 256 megabytes of RAM.
 
 ### 12. Canary Deployments
 
