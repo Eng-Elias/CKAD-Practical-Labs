@@ -32,7 +32,7 @@ This directory contains theoritical concepts and practical exercises for the Cer
 - Advanced Deployment Strategies (Blue/Green, Canary)
 - Application Troubleshooting
 
-### Module 5: Troubleshooting & Sample Exam
+### [Module 5: Troubleshooting & Sample Exam](Module5_Sample_Exam/index.md)
 - Hands-on Practice Questions
 - Real-world Scenarios
 - Exam Tips and Strategies
