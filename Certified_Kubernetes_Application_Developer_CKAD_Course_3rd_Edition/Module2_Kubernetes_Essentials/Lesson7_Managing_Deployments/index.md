@@ -61,4 +61,4 @@ This lesson covers Kubernetes Deployments, which provide declarative updates for
 - **Scaling Issues**: Verify resource quotas and node capacity
 
 ## Next Steps
-After mastering Deployments, you'll be ready to explore [Kubernetes Storage in Lesson 10](../Lesson10_Managing_Kubernetes_Storage/index.md) to learn about persistent storage solutions for your applications.
+After mastering Deployments, you'll be ready to explore [Managing Networks in Lesson 8](../Lesson8_Managing_Networking/index.md) to learn about managing networking for your applications.
