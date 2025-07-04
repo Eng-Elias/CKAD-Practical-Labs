@@ -25,6 +25,6 @@ This module contains practical exercises and sample exam questions to help you p
 14. [Managing ServiceAccount](15_16_Managing_ServiceAccount/15_16_Managing_ServiceAccount.md)
 
 ## Additional Resources
-- [Course Main Page](../README.md)
+- [Course Main Page](../../README.md)
 - [Kubernetes Documentation](https://kubernetes.io/docs/)
 - [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
