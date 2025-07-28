@@ -1,4 +1,4 @@
-# CKAD Lab 56 (Part 2): Building and Troubleshooting a `nodeAffinity` Manifest
+# CKAD Lab 50 (Part 2): Building and Troubleshooting a `nodeAffinity` Manifest
 
 ## Objective
 Using the fields discovered in Part 1, we will now construct the `nodeAffinity` block in our deployment's YAML. This lab focuses on the practical, and often iterative, process of writing complex YAML and using Kubernetes' own error messages to fix it.

@@ -1,4 +1,4 @@
-# CKAD Lab 55 (Part 1): Using `kubectl explain` to Build a `nodeAffinity` Rule
+# CKAD Lab 50 (Part 1): Using `kubectl explain` to Build a `nodeAffinity` Rule
 
 ## Objective
 This two-part lab demonstrates the most critical skill for the CKAD exam: using `kubectl explain` to discover the correct YAML structure for a complex feature like `nodeAffinity` when you don't have an example manifest.
