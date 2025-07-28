@@ -1,4 +1,4 @@
-# CKAD Lab 57 (Part 2): Building and Troubleshooting the `nodeAffinity` Deployment
+# CKAD Lab 51 (Part 2): Building and Troubleshooting the `nodeAffinity` Deployment
 
 ## Objective
 Translate the `nodeAffinity` structure discovered in Part 1 into a working `Deployment` manifest. This lab emphasizes the practical skill of using the API server's validation errors to correct YAML syntax and structure.

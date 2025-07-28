@@ -1,4 +1,4 @@
-# CKAD Lab 57 (Part 1): Reinforcing `nodeAffinity` with `kubectl explain`
+# CKAD Lab 51 (Part 1): Reinforcing `nodeAffinity` with `kubectl explain`
 
 ## Objective
 This lab reinforces the essential skill of using `kubectl explain` to build a `Deployment` manifest with a `nodeAffinity` rule. Mastering this discovery process is key to solving complex scheduling challenges on the CKAD exam without relying on pre-existing examples.
