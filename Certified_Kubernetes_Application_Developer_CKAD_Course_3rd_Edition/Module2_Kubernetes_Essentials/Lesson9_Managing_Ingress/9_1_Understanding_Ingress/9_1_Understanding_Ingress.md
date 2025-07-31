@@ -26,7 +26,7 @@ Ingress in Kubernetes is an API object that manages external access to services 
 4. **Routing**: Forwards traffic to the appropriate Service based on the rules
 5. **Service**: Routes to the backend Pods
 
-![Ingress Flow](https://kubernetes.io/docs/concepts/services-networking/ingress.svg)
+![Ingress Flow](https://kubernetes.io/docs/images/ingress.svg)
 
 ## Ingress Controller
 
