@@ -13,37 +13,37 @@ This lesson provides a systematic approach to troubleshooting applications and i
 
 ## Topics
 
-### [14.1 Determining a Troubleshooting Strategy](14.1_Determining_a_Troubleshooting_Strategy/14.1_Determining_a_Troubleshooting_Strategy.md)
+### [14.1 Determining a Troubleshooting Strategy](14_1_Determining_a_Troubleshooting_Strategy/14_1_Determining_a_Troubleshooting_Strategy.md)
 - The troubleshooting methodology
 - Gathering relevant information
 - Common failure patterns
 - Documenting the process
 
-### [14.2 Analyzing Failing Applications](14.2_Analyzing_Failing_Applications/14.2_Analyzing_Failing_Applications.md)
+### [14.2 Analyzing Failing Applications](14_2_Analyzing_Failing_Applications/14_2_Analyzing_Failing_Applications.md)
 - Pod lifecycle and states
 - Container logs analysis
 - Resource constraints and OOM issues
 - Application dependency problems
 
-### [14.3 Analyzing Pod Access Problems](14.3_Analyzing_Pod_Access_Problems/14.3_Analyzing_Pod_Access_Problems.md)
+### [14.3 Analyzing Pod Access Problems](14_3_Analyzing_Pod_Access_Problems/14_3_Analyzing_Pod_Access_Problems.md)
 - Network policies and connectivity
 - Service discovery issues
 - DNS resolution problems
 - Ingress and service configuration
 
-### [14.4 Monitoring Cluster Event Logs](14.4_Monitoring_Cluster_Event_Logs/14.4_Monitoring_Cluster_Event_Logs.md)
+### [14.4 Monitoring Cluster Event Logs](14_4_Monitoring_Cluster_Event_Logs/14_4_Monitoring_Cluster_Event_Logs.md)
 - Kubernetes event stream
 - Metrics and monitoring tools
 - Log aggregation and analysis
 - Setting up alerts
 
-### [14.5 Troubleshooting Authentication Problems](14.5_Troubleshooting_Authentication_Problems/14.5_Troubleshooting_Authentication_Problems.md)
+### [14.5 Troubleshooting Authentication Problems](14_5_Troubleshooting_Authentication_Problems/14_5_Troubleshooting_Authentication_Problems.md)
 - Authentication mechanisms
 - RBAC configuration issues
 - Service account problems
 - Kubeconfig and context issues
 
-### [14.6 Using Probes](14.6_Using_Probes/14.6_Using_Probes.md)
+### [14.6 Using Probes](14_6_Using_Probes/14_6_Using_Probes.md)
 - Liveness, readiness, and startup probes
 - Configuring effective health checks
 - Common probe patterns
